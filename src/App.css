@@ -24,6 +24,18 @@
   color: white;
 }
 
+.App-header h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #61dafb;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.App-header p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
 .App-link {
   color: #61dafb;
 }
