@@ -1,12 +1,16 @@
 .App {
   text-align: center;
+  min-height: 100vh;
 }
 
+.main-content {
+  padding-top: 80px; /* Space for fixed navigation */
+}
+
+/* Keep existing styles for backward compatibility */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-
-  
 }
 
 @media (prefers-reduced-motion: no-preference) {
